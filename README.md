@@ -1,11 +1,11 @@
 ### <div align="center">I'm Harsh Partap Jain,I am an android OS developer i.e kernels and roms</div>  
   
 
-- 🔭 I’m currently Studying in [Chandigarh University]
+- 🏫 I’m currently Studying in [Chandigarh University]
 (https://www.cuchd.in/)  
   
 
-- 🌱 I’m currently learning Android software algorithms  
+- 💻 I’m currently learning Android software algorithms  
   
 
 - ❓ Ask me about anything related to OS and development tools  
@@ -97,7 +97,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshJain69&hide_border=true&layout=compact" align="center" /></div>  
+<p align="center">
+ <img src="https://raw.githubusercontent.com/HarshJain69/Readme-generator/master/generated/languages.svg"/>
+ <img src="https://raw.githubusercontent.com/HarshJain69/Readme-generator/master/generated/overview.svg"/>
+</p>
 
 <br/>  
 
