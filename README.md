@@ -1,8 +1,7 @@
 ### <div align="center">I'm Harsh Partap Jain,I am a reseacher,Machine learning Enthusiast and an android OS developer i.e kernels and roms(AOSP)</div>  
   
 
-- 🏫 I’m currently Studying in [Chandigarh University]
-(https://www.cuchd.in/)  
+- 🏫 I’m currently Studying in Chandigarh University
   
 - 📰I'm working on many research papers related to machine learning and deep deeplearning
 
