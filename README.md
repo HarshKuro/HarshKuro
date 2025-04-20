@@ -1,16 +1,9 @@
-### <div align="center">I'm Harsh Partap Jain,I am a reseacher,Machine learning Enthusiast and an android OS developer i.e kernels and roms(AOSP)</div>  
+### <div align="center">Hey, I'm Harsh! 👋 Exploring the depths of ML and Android.</div>  
   
 
-- 🏫 I’m currently Studying in Chandigarh University
-  
-- 📰I'm working on many research papers related to machine learning and deep deeplearning
-
-
-- 💻 I’m currently learning Android software algorithms  
-  
-
-- ❓ Ask me about anything related to OS and development tools  
-  
+* 🌱 Actively applying AI/ML concepts, developing web applications with Next.js (like my [Phi Sight project](www.phi-sight.com)!), and exploring cross-platform solutions using Flutter.
+* 🚀 Always learning and seeking opportunities to contribute to innovative projects in AI or systems development.
+* 💬 Let's connect to discuss machine learning, full-stack development, or mobile app creation!
 
 <br/>  
 
