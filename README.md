@@ -1,7 +1,7 @@
 ### <div align="center">Hey, I'm Harsh! 👋 Exploring the depths of ML and Android.</div>  
   
 
-* 🌱 Actively applying AI/ML concepts, developing web applications with Next.js (like my [Phi Sight project](www.phi-sight.com)!), and exploring cross-platform solutions using Flutter.
+* 🌱 Actively applying AI/ML concepts, developing web applications with Next.js (like my [Phi Sight project](http://www.phi-sight.com)!), and exploring cross-platform solutions using Flutter.
 * 🚀 Always learning and seeking opportunities to contribute to innovative projects in AI or systems development.
 * 💬 Let's connect to discuss machine learning, full-stack development, or mobile app creation!
 
