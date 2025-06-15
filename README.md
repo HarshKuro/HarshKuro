@@ -9,7 +9,7 @@
 
 ### 🌱 About Me
 
-- Passionate about AI/ML, building modern web apps with Next.js ([Phi Sight](http://www.phi-sight.com)), and experimenting with cross-platform solutions like Flutter.
+- Passionate about AI/ML, building modern web apps with Next.js, and experimenting with cross-platform solutions like Flutter.
 - Always learning, always building! Currently looking to collaborate on innovative projects in machine learning, mobile, or systems development.
 - 💬 Let's chat about machine learning, full-stack web, or mobile app creation!
 
