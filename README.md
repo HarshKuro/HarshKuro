@@ -117,8 +117,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshJain69/Readme-generator/master/generated/languages.svg" alt="Languages"/>
-  <img src="https://raw.githubusercontent.com/HarshJain69/Readme-generator/master/generated/overview.svg" alt="Profile Overview"/>
+  <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/languages.svg" alt="Languages"/>
+  <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/overview.svg" alt="Profile Overview"/>
 </p>
 
 ---
