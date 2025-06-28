@@ -1,7 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Harsh!  
+# Hey, I'm Harsh!
 ## Exploring the depths of ML, Android, and Full-Stack Development 🚀
+
+<a href="https://www.harshpartapjain.site/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -99,16 +103,16 @@
 
 <div align="center">
   <a href="https://github.com/HarshJain69" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&label=Follow+Me&labelColor=black" alt="GitHub" />
   </a>
   <a href="https://twitter.com/Harsh_Gothi_31" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&label=Follow+Me&labelColor=black" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/harsh-partap-jain-2952a428b" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=Connect&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/harsh._kuro" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&label=Follow+Me&labelColor=black" alt="Instagram" />
   </a>
 </div>
 
@@ -117,15 +121,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/languages.svg" alt="Languages"/>
-  <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/overview.svg" alt="Profile Overview"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshJain69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshJain69&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshJain69&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
-
----
-
-## 📝 Recent Blog Posts
-
-<!-- Add your recent blog posts here, or link to your blog. -->
 
 ---
 
