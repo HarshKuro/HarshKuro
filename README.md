@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 👋 Hey, I'm Harsh!  
 ## Exploring the depths of ML, Android, and Full-Stack Development 🚀
@@ -77,6 +77,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/languages.svg" alt="Languages"/>
   <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/overview.svg" alt="Profile Overview"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarshKuro&theme=radical" />
+
+  
   <!-- GitHub Trophies (Updated Display) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshKuro&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&title=MultiLanguage,Commits,Repositories" />
