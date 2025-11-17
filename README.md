@@ -77,9 +77,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/languages.svg" alt="Languages"/>
   <img src="https://raw.githubusercontent.com/HarshKuro/Readme-generator/master/generated/overview.svg" alt="Profile Overview"/>
-  ![GitHub Stats](https://raw.githubusercontent.com/HarshKuro/harsh-github-analytics/main/stats.svg)
+  <img src="https://raw.githubusercontent.com/HarshKuro/harsh-github-analytics/main/stats.svg" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshkuro&theme=radical" alt="Wakatime Stats"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshkuro&theme=radical" />
   
 
 
