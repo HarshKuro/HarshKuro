@@ -1,47 +1,59 @@
-# 👋 Hi, I’m Harsh Partap Jain  
-### Software Engineer | Full-Stack • Mobile • AI/ML
+# 👋 Hi, I’m Harsh Partap Jain
+### Full-Stack Engineer • Mobile • Applied AI
 
-I build **production-ready systems**, not demos — focusing on scalability, clean architecture, and measurable impact.
-
----
-
-## 🚀 What I Do
-
-- Full-stack web apps with modern frontend + lean backends  
-- Mobile apps (Flutter & native Android) with real users in mind  
-- AI/ML pipelines — from data prep to deployment  
-- Systems thinking: performance, structure, maintainability
+I build **scalable, production-ready systems** with a strong focus on frontend quality, backend reliability, and practical AI integrations.
 
 ---
 
-## 🧠 Core Skills
-
-**Frontend**
-- React, Next.js, TypeScript, Tailwind CSS
-- Performance-driven UI, clean component architecture
-
-**Backend**
-- Node.js, Python, Flask, Java
-- REST APIs, auth, data modeling, validations
-- MongoDB, scalable backend design
-
-**Mobile**
-- Flutter, Dart
-- Native Android (Kotlin)
-- Cross-platform architecture & state management
-
-**AI / ML**
-- scikit-learn, NumPy, Pandas, Matplotlib
-- ML pipelines, feature engineering, evaluation
-- Practical ML > theoretical fluff
+## 🚀 What I Build
+- Modern web apps with clean UX and fast performance
+- Cross-platform mobile apps with shared logic
+- Backend systems that scale without drama
+- AI features that solve real problems (not demos)
 
 ---
 
-## 🛠️ Tools & Workflow
+## 🧠 Skills
 
-- Git, GitHub, Linux
-- Clean code, modular design
-- Ship fast, refactor faster
+### 1️⃣ Frontend
+- React, Next.js
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS
+- Responsive UI/UX
+- HTML5, CSS3
+
+### 2️⃣ Backend
+- Node.js, Express.js
+- Python, FastAPI
+- REST APIs
+- GraphQL, WebSockets
+- Microservices fundamentals
+
+### 3️⃣ Databases & Systems
+- PostgreSQL, MongoDB
+- Redis (Caching)
+- SQL
+- Auth (JWT / Sessions)
+- System design basics
+- Database optimization
+
+### 4️⃣ AI / ML (Applied)
+- OpenAI APIs
+- LangChain
+- RAG pipelines
+- Prompt engineering
+- NLP
+- Vector databases
+- Model integration in web apps
+
+### 5️⃣ DevOps & Tooling
+- Docker
+- CI/CD (GitHub Actions)
+- AWS / GCP basics
+- Git & version control
+- Linux & server setup
+- Nginx
+- Monitoring & logging
 
 ---
 
