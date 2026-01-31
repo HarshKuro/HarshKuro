@@ -86,7 +86,7 @@
   
   <!-- GitHub Trophies (Updated Display) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshKuro&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&title=MultiLanguage,Commits,Repositories" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=HarshKuro&theme=dracula&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories" alt="GitHub Trophies" />
 </p>
 
 </p>
