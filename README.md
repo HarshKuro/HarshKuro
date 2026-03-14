@@ -70,6 +70,7 @@ I build **scalable, production-ready systems** with a strong focus on frontend q
 
 
 ---
+[![wakatime](https://wakatime.com/badge/user/ddecaf82-d369-49ca-904f-00fa302e4e26.svg)](https://wakatime.com/@ddecaf82-d369-49ca-904f-00fa302e4e26)
 
 ## 📈 GitHub Stats
 
