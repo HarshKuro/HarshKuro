@@ -1,9 +1,12 @@
 SETUP (2 minutes)
 1. Create a PUBLIC repo named exactly: HarshKuro
-2. Upload everything from this folder (README.md, assets/, .github/) to the repo root on branch "main"
+2. Upload everything in this folder to the repo root on branch "main"
+   (README.md, assets/, scripts/, .github/)  -- make sure the hidden .github folder goes up too
 3. Repo -> Settings -> Actions -> General -> Workflow permissions -> "Read and write permissions"
-4. Repo -> Actions tab -> "Generate Contribution Snake" -> Run workflow
-   (creates the "output" branch with the neon snake; the README picks it up automatically)
-5. On your GitHub profile, enable "Private contributions" so the stats count private work too.
+4. Repo -> Actions tab -> "Update profile stats" -> Run workflow (it then refreshes every 6 hours)
+5. On your GitHub profile, enable "Private contributions" so private work shows in the heatmap.
 
-Assets are plain SVGs in /assets (animated, no screenshots). Edit text inside them if you want to tweak anything.
+Notes
+- Everything is a self-hosted SVG. The only outside images are small badges (shields.io, komarev, wakatime).
+- stats / languages / contributions / pinned repos come from scripts/generate.py (standard library only, no token).
+- assets/generated/ already contains a snapshot made today, so the README looks right immediately.

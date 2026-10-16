@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150">
+<rect x="0.5" y=".5" width="323.0" height="149" rx="10" fill="#0d1017" stroke="#1c2230"/>
+<rect x="0.0" y="0" width="324.0" height="2" fill="#7df9ff" opacity=".6"><animate attributeName="opacity" values=".6;.1;.6" dur="3s" repeatCount="indefinite"/></rect>
+<text x="20.0" y="36" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="15" fill="#e6ebf5">Broku-backend</text>
+<text x="20.0" y="64" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7d8799">The Expenses Keeper</text>
+<circle cx="24.0" cy="124" r="4" fill="#7df9ff"/><text x="36.0" y="128" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#9fb0c8">TypeScript</text>
+<text x="304.0" y="128" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#9fb0c8">★ 0</text>
+<rect x="338.5" y=".5" width="323.0" height="149" rx="10" fill="#0d1017" stroke="#1c2230"/>
+<rect x="338.0" y="0" width="324.0" height="2" fill="#7df9ff" opacity=".6"><animate attributeName="opacity" values=".6;.1;.6" dur="4s" repeatCount="indefinite"/></rect>
+<text x="358.0" y="36" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="15" fill="#e6ebf5">Broku-frontend</text>
+<text x="358.0" y="64" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7d8799">The UI keeper</text>
+<circle cx="362.0" cy="124" r="4" fill="#7df9ff"/><text x="374.0" y="128" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#9fb0c8">TypeScript</text>
+<text x="642.0" y="128" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#9fb0c8">★ 0</text>
+<rect x="676.5" y=".5" width="323.0" height="149" rx="10" fill="#0d1017" stroke="#1c2230"/>
+<rect x="676.0" y="0" width="324.0" height="2" fill="#7df9ff" opacity=".6"><animate attributeName="opacity" values=".6;.1;.6" dur="5s" repeatCount="indefinite"/></rect>
+<text x="696.0" y="36" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="15" fill="#e6ebf5">CourseCraft-Coursera-Automati…</text>
+<text x="696.0" y="64" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7d8799">CourseCraft is a free, open-source</text>
+<text x="696.0" y="82" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7d8799">Chrome extension that streamlines…</text>
+<circle cx="700.0" cy="124" r="4" fill="#7df9ff"/><text x="712.0" y="128" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#9fb0c8">HTML</text>
+<text x="980.0" y="128" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#9fb0c8">★ 0</text>
+</svg>

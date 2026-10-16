@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff2a6d" stop-opacity="0"/><stop offset=".25" stop-color="#ff2a6d"/><stop offset=".75" stop-color="#05d9e8"/><stop offset="1" stop-color="#05d9e8" stop-opacity="0"/></linearGradient>
-<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="0" y="11" width="1000" height="2" fill="url(#g)" filter="url(#glow)"/>
-<rect x="-160" y="10" width="160" height="4" fill="url(#beam)" opacity=".9"><animate attributeName="x" values="-160;1000" dur="3s" repeatCount="indefinite"/></rect>
-<g transform="translate(500 12)"><rect x="-7" y="-7" width="14" height="14" transform="rotate(45)" fill="#0a0a14" stroke="#f9f002" stroke-width="2"><animateTransform attributeName="transform" type="rotate" values="45;405" dur="6s" repeatCount="indefinite"/></rect></g>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7df9ff" stop-opacity="0"/><stop offset=".5" stop-color="#7df9ff" stop-opacity=".55"/><stop offset="1" stop-color="#7df9ff" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="11.5" width="1000" height="1" fill="url(#g)"/>
+<circle cx="500" cy="12" r="3" fill="#0a0c10" stroke="#7df9ff" stroke-width="1.2"/>
+<circle cx="500" cy="12" r="3" fill="none" stroke="#7df9ff"><animate attributeName="r" values="3;14" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="3s" repeatCount="indefinite"/></circle>
 </svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130">
+<rect x="8.0" y="4" width="234.0" height="120" rx="8" fill="#0d1017" stroke="#1c2230"/>
+<rect x="8.0" y="4" width="234.0" height="2" fill="#7df9ff" opacity=".7"><animate attributeName="opacity" values=".7;.15;.7" dur="3.0s" repeatCount="indefinite"/></rect>
+<text x="28.0" y="38" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#7df9ff" letter-spacing="2">01</text>
+<text x="28.0" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" letter-spacing="5" fill="#e6ebf5">WEB</text>
+<text x="28.0" y="92" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">Modern web apps with clean</text>
+<text x="28.0" y="109" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">UX and fast performance</text>
+<rect x="258.0" y="4" width="234.0" height="120" rx="8" fill="#0d1017" stroke="#1c2230"/>
+<rect x="258.0" y="4" width="234.0" height="2" fill="#7df9ff" opacity=".7"><animate attributeName="opacity" values=".7;.15;.7" dur="3.7s" repeatCount="indefinite"/></rect>
+<text x="278.0" y="38" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#7df9ff" letter-spacing="2">02</text>
+<text x="278.0" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" letter-spacing="5" fill="#e6ebf5">MOBILE</text>
+<text x="278.0" y="92" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">Cross-platform apps with</text>
+<text x="278.0" y="109" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">shared logic</text>
+<rect x="508.0" y="4" width="234.0" height="120" rx="8" fill="#0d1017" stroke="#1c2230"/>
+<rect x="508.0" y="4" width="234.0" height="2" fill="#7df9ff" opacity=".7"><animate attributeName="opacity" values=".7;.15;.7" dur="4.4s" repeatCount="indefinite"/></rect>
+<text x="528.0" y="38" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#7df9ff" letter-spacing="2">03</text>
+<text x="528.0" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" letter-spacing="5" fill="#e6ebf5">BACKEND</text>
+<text x="528.0" y="92" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">Systems that scale without</text>
+<text x="528.0" y="109" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">drama</text>
+<rect x="758.0" y="4" width="234.0" height="120" rx="8" fill="#0d1017" stroke="#1c2230"/>
+<rect x="758.0" y="4" width="234.0" height="2" fill="#7df9ff" opacity=".7"><animate attributeName="opacity" values=".7;.15;.7" dur="5.1s" repeatCount="indefinite"/></rect>
+<text x="778.0" y="38" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#7df9ff" letter-spacing="2">04</text>
+<text x="778.0" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" letter-spacing="5" fill="#e6ebf5">AI</text>
+<text x="778.0" y="92" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">Features that solve real</text>
+<text x="778.0" y="109" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#7d8799">problems, not demos</text>
+</svg>
