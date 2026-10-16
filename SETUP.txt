@@ -1,0 +1,7 @@
+SETUP (2 minutes)
+1. Create a repo named exactly: HarshKuro   (same as your username, set to Public)
+2. Upload everything from this zip (README.md, .github/, assets/) to the repo root on branch "main"
+3. Repo -> Settings -> Actions -> General -> Workflow permissions -> "Read and write permissions"
+4. Repo -> Actions tab -> "Generate Contribution Snake" -> Run workflow (creates the "output" branch with the snake SVGs)
+5. Optional: add Private contributions: github.com/HarshKuro -> Contribution settings -> "Private contributions"
+6. Replace the MAAYA comment block with a pin card once that repo is public.
