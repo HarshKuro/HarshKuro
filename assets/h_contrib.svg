@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#ff2a6d" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="62" rx="6" fill="#0a0a14" stroke="#1f1f3d"/>
+<path d="M0 8 L0 56 L10 64 L10 0 Z" fill="#ff2a6d" filter="url(#glow)"/>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-weight="700"><text x="34" y="40" font-size="22" fill="#05d9e8" opacity=".9">07</text>
+<text x="78" y="42" font-size="26" letter-spacing="3" fill="#ff2a6d" filter="url(#glow)" font-family="Orbitron,'Arial Black',Impact,sans-serif" font-weight="900">CONTRIBUTION_GRID</text></g>
+<rect x="0" y="59" width="1000" height="2" fill="url(#fade)" opacity=".8"/>
+<rect x="0" y="58" width="60" height="4" fill="#fff" opacity=".9"><animate attributeName="x" values="0;940;0" dur="4s" repeatCount="indefinite"/></rect>
+<g fill="#05d9e8"><rect x="930" y="22" width="8" height="20" opacity=".9"><animate attributeName="opacity" values=".9;.2;.9" dur="1.2s" repeatCount="indefinite"/></rect><rect x="944" y="22" width="8" height="20" opacity=".6"><animate attributeName="opacity" values=".6;.1;.6" dur="1.2s" begin=".2s" repeatCount="indefinite"/></rect><rect x="958" y="22" width="8" height="20" opacity=".3"><animate attributeName="opacity" values=".3;.9;.3" dur="1.2s" begin=".4s" repeatCount="indefinite"/></rect></g>
+</svg>
