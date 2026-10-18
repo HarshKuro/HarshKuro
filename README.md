@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://dev.harshpartapjain.site"><img src="https://img.shields.io/badge/PORTFOLIO-7df9ff?style=flat-square&logo=firefox&logoColor=0a0c10&labelColor=0a0c10"/></a>
+<a href="https://harsh.pragtify.com"><img src="https://img.shields.io/badge/PORTFOLIO-7df9ff?style=flat-square&logo=firefox&logoColor=0a0c10&labelColor=0a0c10"/></a>
 <a href="https://linkedin.com/in/harsh-partap-jain-2952a428b"><img src="https://img.shields.io/badge/LINKEDIN-0d1017?style=flat-square&logo=linkedin&logoColor=7df9ff&labelColor=0d1017"/></a>
 <a href="https://twitter.com/Harsh_Gothi_31"><img src="https://img.shields.io/badge/X-0d1017?style=flat-square&logo=x&logoColor=7df9ff&labelColor=0d1017"/></a>
 <a href="https://buymeacoffee.com/harshkuro"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-0d1017?style=flat-square&logo=buy-me-a-coffee&logoColor=7df9ff&labelColor=0d1017"/></a>
