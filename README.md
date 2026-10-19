@@ -37,9 +37,9 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_maaya.svg" width="100%" alt="Featured"/>
+<img src="assets/h_anaya.svg" width="100%" alt="Featured"/>
 <br/>
-<img src="assets/maaya.svg" width="100%" alt="MAAYA architecture"/>
+<img src="assets/anaya.svg" width="100%" alt="ANAYA architecture"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
