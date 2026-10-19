@@ -71,7 +71,7 @@
 
 <img src="assets/h_connect.svg" width="100%" alt="Contact"/>
 <br/>
-<a href="https://dev.harshpartapjain.site"><img src="https://img.shields.io/badge/dev.harshpartapjain.site-7df9ff?style=for-the-badge&logo=firefox&logoColor=0a0c10&labelColor=0a0c10"/></a>
+<a href="https://harsh.pragtify.com"><img src="https://img.shields.io/badge/harsh.pragtify.com-7df9ff?style=for-the-badge&logo=firefox&logoColor=0a0c10&labelColor=0a0c10"/></a>
 <a href="https://linkedin.com/in/harsh-partap-jain-2952a428b"><img src="https://img.shields.io/badge/LINKEDIN-0d1017?style=for-the-badge&logo=linkedin&logoColor=7df9ff&labelColor=0d1017"/></a>
 <a href="https://twitter.com/Harsh_Gothi_31"><img src="https://img.shields.io/badge/X-0d1017?style=for-the-badge&logo=x&logoColor=7df9ff&labelColor=0d1017"/></a>
 <a href="https://buymeacoffee.com/harshkuro"><img src="https://img.shields.io/badge/SUPPORT-0d1017?style=for-the-badge&logo=buy-me-a-coffee&logoColor=7df9ff&labelColor=0d1017"/></a>
